@@ -1,0 +1,2 @@
+# FracturedMind
+Building mind machines 
